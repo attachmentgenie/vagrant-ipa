@@ -1,0 +1,3 @@
+---
+profile_firewall::ensure: stopped
+profile_puppet::puppetmaster: puppetmaster.ipa.vagrant

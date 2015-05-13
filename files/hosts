@@ -1,0 +1,9 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+## vagrant-hostmanager-start
+192.168.21.130	puppetmaster.ipa.vagrant 
+192.168.21.140	office.ipa.vagrant
+192.168.21.150	club.ipa.vagrant
+192.168.21.151	lounge.ipa.vagrant
+## vagrant-hostmanager-end
